@@ -1,0 +1,15 @@
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.exe
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.deps.json
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.runtimeconfig.json
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.dll
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\bin\Debug\net6.0\Example001_helloConsole.pdb
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.AssemblyReference.cache
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfoInputs.cache
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.AssemblyInfo.cs
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.csproj.CoreCompileInputs.cache
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.dll
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\refint\Example001_helloConsole.dll
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.pdb
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\Example001_helloConsole.genruntimeconfig.cache
+D:\Обучение B\Введение  в языки программирования\Example001_helloConsole\obj\Debug\net6.0\ref\Example001_helloConsole.dll
